@@ -1,4 +1,8 @@
 //js
+// right click disabled 
+window.oncontextmenu = function(){
+  return false;
+}
 // aos 
 
 AOS.init({
