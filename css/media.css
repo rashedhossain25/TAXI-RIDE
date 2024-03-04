@@ -1,0 +1,426 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+  /* header  */
+  .menu ul li a {
+    margin-left: 0px;
+    text-align: left;
+    padding: 5px 0px !important;
+  }
+  /* header end  */
+  /* slider  */
+  .slider {
+    background-color: #1f1f1f;
+    width: 100%;
+    padding: 120px 0 35px 0;
+  }
+  .slider_t h1 {
+    font-size: 30px;
+  }
+  .slider_t {
+    margin-bottom: 3rem;
+    text-align: center;
+    padding: 0 2px;
+  }
+  .slider_image {
+    text-align: center;
+    padding-left: 0px;
+  }
+  .slider_image img {
+    display: none;
+    width: 90%;
+  }
+  .c_ind {
+    bottom: -50px;
+  }
+  /* about  */
+  .about {
+    padding: 50px 0 50px 0;
+  }
+  .a_image {
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  .c_text {
+    text-align: center;
+  }
+  .c_text h1 {
+    margin: 10px 0;
+    font-size: 25px;
+  }
+  /* services  */
+  .text_c {
+    padding-top: 65px;
+  }
+  .se_item {
+    margin-top: 25px;
+    border-style: hidden;
+  }
+  .text_c h1 {
+    font-size: 30px;
+  }
+  .services {
+    padding-bottom: 60px;
+  }
+  /* app  */
+  .app {
+    padding-bottom: 50px;
+  }
+  .app_text span {
+    float: left;
+  }
+  /* features  */
+  .features {
+    padding-bottom: 50px;
+  }
+  .t_features h6 {
+    font-size: 20px;
+  }
+  .t_features p {
+    padding: 0px 10px;
+  }
+  .t_features {
+    border-style: hidden;
+  }
+  .t_features span {
+    font-size: 32px;
+  }
+  .t_features h6 {
+    margin: 25px 0 15px 0;
+  }
+  /* packages  */
+  .packages {
+    padding-bottom: 60px;
+  }
+  .package_img p {
+    padding: 0 15px;
+  }
+  .emg_2 {
+    width: 20%;
+    height: 20%;
+  }
+  /* booking  */
+  .booking {
+    padding-bottom: 50px;
+  }
+  /* booking  */
+  /* contact us */
+  .for_emergency {
+    margin: 15px 0;
+  }
+  #extra_p {
+    text-align: center;
+  }
+  .e-text h2 {
+    font-size: 35px;
+  }
+  /* contact us */
+
+  /* partner  */
+  .partner-text {
+    margin-bottom: 25px;
+    text-align: center;
+  }
+  .partner-text h4 {
+    font-size: 35px;
+  }
+  .partner-text h6 {
+    font-size: 25px;
+  }
+  /* partner  */
+  /* footer top  */
+  .footer_top {
+    text-align: center;
+    padding: 50px 0 40px 0;
+  }
+  /* footer top  */
+
+  /* footer  */
+  .copyright {
+    text-align: center;
+  }
+  .ft_con ul li a {
+    text-align: center;
+    padding: 0 10px;
+    float: none;
+  }
+  .ft_con {
+    margin: 10px 0;
+  }
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+  /* header  */
+  .menu ul li a {
+    margin-left: 0px;
+    text-align: left;
+    padding: 7px 0px !important;
+  }
+  /* header end  */
+  /* slider  */
+  .slider {
+    background-color: #1f1f1f;
+    width: 100%;
+    padding: 120px 0 60px 0;
+  }
+  .slider_t h1 {
+    font-size: 37px;
+  }
+  .slider_t {
+    margin-bottom: 3rem;
+    text-align: center;
+    padding: 0 0px;
+  }
+  .slider_image {
+    text-align: center;
+    padding-left: 0px;
+  }
+  .slider_image img {
+    width: 90%;
+  }
+  .c_ind {
+    bottom: -75px;
+  }
+  /* about  */
+  .about {
+    padding: 60px 0 60px 0;
+  }
+  .a_image {
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  .c_text {
+    text-align: center;
+  }
+  .c_text h1 {
+    margin: 10px 0;
+    font-size: 30px;
+  }
+  /* services  */
+  .text_c {
+    padding-top: 70px;
+  }
+  .se_item {
+    margin-top: 35px;
+    border-style: hidden;
+  }
+  .text_c h1 {
+    font-size: 40px;
+  }
+  .services {
+    padding-bottom: 80px;
+  }
+  .app {
+    padding-bottom: 60px;
+  }
+  /* features  */
+  .features {
+    padding-bottom: 60px;
+  }
+  .t_features {
+    border-style: hidden;
+  }
+  /* package  */
+  .emg_2 {
+    width: 18%;
+    height: 18%;
+  }
+  .package_img p {
+    padding: 0 60px;
+  }
+  .packages {
+    padding-bottom: 70px;
+  }
+  /* booking  */
+  .booking {
+    padding-bottom: 60px;
+  }
+  /* booking  */
+  /* contact us */
+  .for_emergency {
+    margin: 15px 0;
+  }
+  #extra_p {
+    text-align: center;
+  }
+  .e-text h2 {
+    font-size: 40px;
+  }
+  /* contact us */
+
+  /* partner  */
+  .partner-text {
+    margin-bottom: 25px;
+    text-align: center;
+  }
+  .partner-text h4 {
+    font-size: 40px;
+  }
+  .partner-text h6 {
+    font-size: 25px;
+  }
+  /* partner  */
+  /* footer top  */
+  .footer_top {
+    text-align: center;
+    padding: 70px 0 50px 0;
+  }
+  /* footer top  */
+  /* footer  */
+  .copyright {
+    text-align: center;
+  }
+  .ft_con ul li a {
+    text-align: center;
+    padding: 0 10px;
+    float: none;
+  }
+  .ft_con {
+    margin: 10px 0;
+  }
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+  /* header  */
+  .menu ul li a {
+    margin-left: 0px;
+    text-align: left;
+    padding: 8px 0px !important;
+  }
+  /* header end  */
+  /* slider  */
+  .slider {
+    background-color: #1f1f1f;
+    width: 100%;
+    padding: 120px 0 80px 0;
+  }
+  .slider_t h1 {
+    font-size: 37px;
+  }
+  .slider_t {
+    margin-bottom: 4rem;
+    text-align: center;
+    padding: 0 40px;
+  }
+  .slider_t p {
+    color: #ffffff !important;
+  }
+  .slider_image {
+    text-align: center;
+    padding-left: 0px;
+  }
+  .slider_image img {
+    width: 90%;
+  }
+  .c_ind {
+    bottom: -90px;
+  }
+  /* about  */
+  .about {
+    padding: 80px 0 80px 0;
+  }
+  .a_image {
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  .c_text {
+    text-align: center;
+  }
+  .c_text h1 {
+    margin: 10px 0;
+    font-size: 30px;
+  }
+  /* services  */
+  .text_c {
+    padding-top: 85px;
+  }
+  .services {
+    padding-bottom: 100px;
+  }
+  .b_rt {
+    border-style: hidden;
+  }
+  /* app  */
+  .app {
+    padding-bottom: 80px;
+  }
+  .app_image {
+    text-align: center;
+  }
+  /* features  */
+  .t_features {
+    border-style: hidden;
+  }
+  /* package  */
+  .emg_2 {
+    width: 12%;
+    height: 12%;
+  }
+  .package_img p {
+    padding: 0 80px;
+  }
+  /* booking  */
+  .booking {
+    padding-bottom: 80px;
+  }
+  /* booking  */
+  /* contact us */
+  .for_emergency {
+    margin: 20px 0;
+  }
+  #extra_p {
+    text-align: center;
+  }
+  /* contact us */
+  /* partner  */
+  .partner-text {
+    margin-bottom: 25px;
+    text-align: center;
+  }
+  /* partner  */
+
+  .footer_top {
+    padding: 70px 0 50px 0;
+  }
+  /* footer top  */
+  /* footer  */
+  .ft_con ul li a {
+    padding: 0 7px;
+    font-size: 24px;
+  }
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  /* slider  */
+  .slider_t h1 {
+    font-size: 37px;
+  }
+  /* services  */
+  .se_item p {
+    padding: 0 12px;
+  }
+  .se_item h5 {
+    font-size: 18px;
+  }
+  /* features  */
+  .t_features p {
+    padding: 0 20px;
+  }
+}
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+  /* services  */
+  .se_item p {
+    padding: 0px 11px;
+  }
+  /* features  */
+  .t_features p {
+    padding: 0 27px;
+  }
+}
+
+/* Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+}
